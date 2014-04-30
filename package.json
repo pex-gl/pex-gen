@@ -1,0 +1,27 @@
+{
+  "name": "pex-gen",
+  "version": "0.0.1",
+  "description": "Primitive and advanced geometry generators for the pex library",
+  "homepage": "https://github.com/vorg/pex-gen.git",
+  "keywords": [
+    "genetry",
+    "3d",
+    "graphics"
+  ],
+  "author": {
+    "name": "Marcin Ignac",
+    "email": "marcin.ignac@gmail.com",
+    "url": "http://marcinignac.com"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "dependencies": {
+    "merge": "1.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vorg/pex-gen.git"
+  },
+  "bugs": "https://github.com/vorg/pex-gen/issues",
+  "license": "MIT"
+}
