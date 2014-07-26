@@ -6,6 +6,7 @@ module.exports.Tetrahedron = require('./lib/Tetrahedron');
 module.exports.Octahedron = require('./lib/Octahedron');
 module.exports.Icosahedron = require('./lib/Icosahedron');
 module.exports.Dodecahedron = require('./lib/Dodecahedron');
+module.exports.HexSphere = require('./lib/HexSphere');
 module.exports.LineBuilder = require('./lib/LineBuilder');
 module.exports.Loft = require('./lib/Loft');
 module.exports.IsoSurface = require('./lib/IsoSurface');
