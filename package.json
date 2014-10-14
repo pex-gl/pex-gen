@@ -1,6 +1,6 @@
 {
   "name": "pex-gen",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Primitive and advanced geometry generators for the pex library",
   "homepage": "https://github.com/vorg/pex-gen.git",
   "keywords": [
