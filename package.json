@@ -14,10 +14,6 @@
     "url": "http://marcinignac.com"
   },
   "main": "index.js",
-  "devDependencies": {},
-  "dependencies": {
-    "merge": "1.1.3"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/vorg/pex-gen.git"
